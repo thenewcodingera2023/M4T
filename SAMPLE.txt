@@ -1,0 +1,28 @@
+[
+  {
+    "topic": "Sample Topic",
+    "question": "What is the capital of France?",
+    "choices": {
+      "A": "London",
+      "B": "Berlin",
+      "C": "Paris",
+      "D": "Madrid"
+    },
+    "time": 100,
+    "answer": "C",
+    "points": 500
+  },
+  {
+    "topic": "Math",
+    "question": "What is 2 + 2?",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "time": 100,
+    "answer": "B",
+    "points": 300
+  }
+]
